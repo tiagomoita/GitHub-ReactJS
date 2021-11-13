@@ -2,7 +2,7 @@
 Simple GitHub repositories website, created with React with a login authentication flow, and using localStorage as a Database.
 
 
-## Layout mobile
+## Layout on Browser
 
 <img src="https://github.com/tiagomoita/GitHub-ReactJS/blob/main/src/assets/Screenshot_7.jpg" width="700" height="315" /> <img src="https://github.com/tiagomoita/GitHub-ReactJS/blob/main/src/assets/Screenshot_1.jpg" width="700" height="315" />
 <img src="https://github.com/tiagomoita/GitHub-ReactJS/blob/main/src/assets/Screenshot_2.jpg" width="700" height="315" />
