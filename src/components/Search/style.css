@@ -1,0 +1,11 @@
+#search {
+    margin: 30px auto;
+}
+
+#search > .card {
+    width: 800px;
+}
+#search button{
+    padding: 8px 25px;
+    width: 112px;
+}

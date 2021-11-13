@@ -1,0 +1,27 @@
+#signIn {
+    background-color: #343a40;
+}
+#signIn > .card {
+    width: 450px;
+    height: 500px;
+}
+
+#signIn h1 {
+    font-size: 32px;
+}
+
+#signIn button {
+    right: 1.5rem;
+    padding: 8px 25px;
+    width: 112px;
+}
+#signIn img {
+    width: 100px;
+    height: auto;
+}
+
+.errorMessage {
+    color: red;
+    font-size: 14px;
+    text-align: center;
+}

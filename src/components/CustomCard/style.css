@@ -1,0 +1,15 @@
+.card {
+    width: 350px;
+}
+#imgCard > img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+#imgCard {
+    height: 200px;
+}
+button {
+    width: 80px;
+    height: 38px;
+}
