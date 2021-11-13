@@ -13,10 +13,10 @@ Simple GitHub repositories website, created with React with a login authenticati
 
 # Technologies
 ## Front end
-- React (ContextAPI, Hooks, AsyncStorage)
+- React (ContextAPI, Hooks)
 - NodeJS
 - axios
-- local Storage
+- localStorage
 
 
 # Author
