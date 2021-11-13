@@ -1,5 +1,5 @@
 # About the project
-Simple GitHub repositories website, created with React with a login authentication flow, and using localStorage as a Database.
+Simple GitHub repositories website, created with React with a login authentication flow, using localStorage as a Database.
 
 
 ## Layout on Browser
